@@ -1,0 +1,15 @@
+<%= semantic_form_for @customer do |f| %>
+  <%= f.inputs do %>
+    <%= f.input :first_name %>
+    <%= f.input :last_name %>
+    <%= f.input :street %>
+    <%= f.input :city %>
+    <%= f.input :zip %>
+    <%= f.input :email %>
+    <%= f.input :phone %>
+  <% end %>
+
+  <%= f.actions do %>
+    <%= f.action :submit, :as => :input %>
+  <% end %>
+<% end %>

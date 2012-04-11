@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  payment_type: MyString
+  card: MyString
+  date: 2012-04-11
+  status: MyString
+  customer: 
+
+two:
+  payment_type: MyString
+  card: MyString
+  date: 2012-04-11
+  status: MyString
+  customer: 

@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  isbn: MyString
+  title: MyString
+  subject: MyString
+  authors: MyString
+  price: 9.99
+  stock: 1
+  publisher: 
+
+two:
+  isbn: MyString
+  title: MyString
+  subject: MyString
+  authors: MyString
+  price: 9.99
+  stock: 1
+  publisher: 

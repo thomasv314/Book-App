@@ -1,0 +1,13 @@
+<%= semantic_form_for @order do |f| %>
+  <%= f.inputs do %>
+    <%= f.input :payment_type %>
+    <%= f.input :card %>
+    <%= f.input :date %>
+    <%= f.input :status %>
+    <%= f.input :customer %>
+  <% end %>
+
+  <%= f.actions do %>
+    <%= f.action :submit, :as => :input %>
+  <% end %>
+<% end %>

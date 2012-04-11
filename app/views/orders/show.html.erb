@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Payment type:</b>
+  <%= @order.payment_type %>
+</p>
+
+<p>
+  <b>Card:</b>
+  <%= @order.card %>
+</p>
+
+<p>
+  <b>Date:</b>
+  <%= @order.date %>
+</p>
+
+<p>
+  <b>Status:</b>
+  <%= @order.status %>
+</p>
+
+<p>
+  <b>Customer:</b>
+  <%= @order.customer %>
+</p>
+
+
+<%= link_to 'Edit', edit_order_path(@order) %> |
+<%= link_to 'Back', orders_path %>
