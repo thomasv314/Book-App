@@ -1,6 +1,6 @@
 class TextLoader
   
-  def self.hi
+  def self.load
     name = File.expand_path('../book.txt', __FILE__)
     File.open(name, 'r').each_line do |line|
       puts line
