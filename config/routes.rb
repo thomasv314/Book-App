@@ -1,4 +1,6 @@
 BookApp::Application.routes.draw do
+  resources :business_websites
+
   resources :orders
 
   resources :books

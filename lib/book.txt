@@ -1,0 +1,49 @@
+2359927591398,The Life of Ronald McDonald,Autobiography,Ronald McDonald,54.86,7,Addison-Wesley
+4237513706411,The Vanishing Window,Mystery,Rick Applegate,55.11,23,Troy Publications
+8844286478297,Waldo and Carman,Romance,Sally McTavish,85.20,13,Seal Press
+8839422599954,Lost Puppy,Fiction,Roy Smith,16.88,8,Avocado Press
+3182209545339,The Broken Record,Mystery,Rebecca Black and Ann Hath,30.12,19,Hristescu Books
+2247853337384,A Mouse and His Family,Fiction,Ellen Rodgers,62.27,27,Random House
+1336955599296,Phone Call from A Stranger,Horror,Samantha Myers,94.84,31,Penguin Books
+9038332008681,Into The Game,Fiction,Bill Knight,75.42,22,Harper Collins
+7008814924621,Ball Game With Dad,Fiction,Julie Johnson,8.45,28,Simon & Schuster
+5743782049922,The Fairy Princess,Fiction,Lindsey Dalton,97.15,15,Quirk Books
+1704353873559,The Birds,Horror,Spike Patterson,60.13,29,Addison-Wesley
+3008196489259,One In A Million Shot,Fiction,Michelle Greene,74.27,19,Troy Publications
+7505328332377,The Untouched Dollar,Fiction,Scotty Williams,76.34,28,Seal Press
+6862236627694,The Bleeding Lake,Horror,Luke Griffen,56.74,22,Avocado Press
+1602138427072,A Kiss In The Rain,Romance,Steven Hawk,83.26,9,Hristescu Books
+8781231492221,The Great Crib Escape,Fiction,Tommy Pickles,65.83,16,Random House
+8268847172304,The Dwarf In The Attic,Mystery,Phillip Gates,5.26,10,Penguin Books
+5351202043164,Who's Who Now,Autobiography,Bill Gates,44.74,20,Harper Collins
+7843825553496,The Magical Forest,Fiction,Sara Paylyn,65.47,29,Simon & Schuster
+5637514004392,Computers For Nerds,Non-Fiction,Elizabeth Gilmore and Mary Jo Kennedy and Lou Ann Reese,65.27,21,Quirk Books
+2491358307568,Dating For Dumb Dumbs,Non-Fiction,Chris Hanson,45.40,23,Addison-Wesley
+3853632025585,The Leaking Tub,Mystery,Angelica Turner,64.75,15,Troy Publications
+5673487388377,The Haunted Graveyard,Horror,Wayne Tyler,21.57,19,Seal Press
+4723689277505,The Case of The Missing Crayon,Mystery,Melissa Sparks,91.03,29,Quirk Books
+6665842084614,My Love,Romance,Bob Ryan,76.38,12,Avocado Press
+9788175257665,The Bear and the Dragon,Fiction,Tom Clancy,7.99,5,Addison-Wesley 
+9738165257635,Databases for Dummies,Non-Fiction,Justin Kennedy,6.99,8,Addison-Wesley
+9728745257035,BlueJ and You!,Non-Fiction,Doug Taggart,16.99,10,Addison-Wesley
+9028745242035,Clear and Present Danger,Fiction,Tom Clancy,8.99,3,Addison-Wesley
+9021745402035,Moldy Conditions in Robinson Hall,Non-Fiction,Mike Mold,10.99,5,Addison-Wesley
+9028745242111,Rainbow Six,Thriller,Tom Clancy,8.99,11,Simon & Schuster
+9028741072035,Know No Fear,Science-Fiction,Dan Abnett,8.99,12,Simon & Schuster
+9025555242035,Doug Taggart: A Too Long History,Biography,Gabriela Hristescu,0.99,1,Hristescu Books
+9025555242069,The Hunt for Red October,Historical Fiction,Tom Clancy,8.99,5,Simon & Schuster 
+9425111242035,The Shining,Horror,Stephen King,8.99,19,Simon & Schuster
+9725506642035,Brave New World,Fiction,Aldus Huxley,11.99,3,Simon & Schuster
+9025569692035,American Psycho,Fiction,Brett Easton and Ellis Johnson and Joe May,11.99,9,Simon & Schuster
+9890655242035,Perfect Attention in Class: A Pro's Guide,Non-fiction,Justin Kennedy,4.99,2,Simon & Schuster
+9025555242222,Atlas Shrugged,Fiction,Ayan Rand,5.00,7,Harper Collins
+9026523242035,Lunar Park,Horror,Brett Easton and Ellis Mak,11.99,8,Harper Collins
+9788175257000,How to Archer,Non-Fiction,Sterling Archer,10.87,69,Harper Collins   
+9025569692333,A Mother's Guide,Non-Fiction,Mallory Archer,12.99,5,Random House
+9025633872035,Jurassic Park,Thriller,Michael Chriton,8.99,2,Random House
+9737569692035,The Boys from Brazil,Thriller,Ira Levin,15.99,3,Avocado Press
+9999999999999,Why I'm Not That Awesome,Non-Fiction,Doug Taggart,29.99,10,Avocado Press
+9025563642000,Space Ducks,Fiction,Krillin,8.99,4,Avocado Press 
+9890655882035,Living in Brazil,Travel,Dr. Krieger,14.99,22,Troy Publications 
+9890658048337,IT,Horror,Stephen King,22.99,19,Troy Publications
+9781452106960,All of my Friends are More Humble Than Me,Fiction,Avery Monsen,9.95,31,Seal Press

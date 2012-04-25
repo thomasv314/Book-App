@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120411175108) do
+ActiveRecord::Schema.define(:version => 20120411175911) do
 
   create_table "books", :force => true do |t|
     t.string   "isbn"
@@ -38,6 +38,19 @@ ActiveRecord::Schema.define(:version => 20120411175108) do
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end
+
+  create_table "line_items", :force => true do |t|
+    t.integer  "order_id"
+    t.integer  "customer_id"
+    t.integer  "book_id"
+    t.integer  "quantity"
+    t.datetime "created_at",  :null => false
+    t.datetime "updated_at",  :null => false
+  end
+
+  add_index "line_items", ["book_id"], :name => "index_line_items_on_book_id"
+  add_index "line_items", ["customer_id"], :name => "index_line_items_on_customer_id"
+  add_index "line_items", ["order_id"], :name => "index_line_items_on_order_id"
 
   create_table "orders", :force => true do |t|
     t.string   "payment_type"

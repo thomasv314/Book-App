@@ -2,7 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.1'
 gem 'formtastic'
-
+gem 'heroku'
+gem 'annotate', :git => 'https://github.com/ctran/annotate_models.git'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 

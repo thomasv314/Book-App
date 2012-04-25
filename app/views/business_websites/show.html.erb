@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Domain name:</b>
+  <%= @business_website.domain_name %>
+</p>
+
+<p>
+  <b>Domain suffix:</b>
+  <%= @business_website.domain_suffix %>
+</p>
+
+
+<%= link_to 'Edit', edit_business_website_path(@business_website) %> |
+<%= link_to 'Back', business_websites_path %>
